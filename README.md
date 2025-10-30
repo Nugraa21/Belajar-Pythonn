@@ -148,7 +148,7 @@ Setelah menyelesaikan semua modul ini, kamu akan:
 
 **Nama:** Ludang Prasetyo Nugroho  
 **GitHub:** [@Nugtt](https://github.com/Nugtt)  
-**Website:** [nugra.online](https://nugra.online)
+**Website:** [nugra.my.id](https://nugra.my.id)
 
 ---
 
